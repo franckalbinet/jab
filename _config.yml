@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: fr.anckalbi.net
+description: Sharing experiments, findings on Deep Learning applied to environmental sciences
 github_username: franckalbinet
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "jab"
