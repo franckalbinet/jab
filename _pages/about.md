@@ -8,4 +8,4 @@ I am an engineer and researcher at heart, building solutions to complex problems
 
 Since then, I am incredibly fortunate to provide an expertise in GIS, data science and Deep Learning to a wide range of international organisations deploying decision support systems during crisis responses.
 
-For further details: https://www.linkedin.com/in/franckalbinet
+For further details: [https://www.linkedin.com/in/franckalbinet](https://www.linkedin.com/in/franckalbinet)
