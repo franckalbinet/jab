@@ -10,12 +10,11 @@ title: fr.anckalbi.net
 description: Sharing experiments, findings on Deep Learning applied to environmental sciences
 github_username: franckalbinet
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "jab"
+github_repo: "blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
 url: "https://franckalbinet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#url: "fr.anckalbi.net"
 ###########################################################
 #########  Special Instructions for baseurl ###############
 #
@@ -34,8 +33,8 @@ url: "https://franckalbinet.github.io" # the base hostname & protocol for your s
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/jab" # the subpath of your site, e.g. "/blog".
-#baseurl: ""
+baseurl: "" # the subpath of your site, e.g. "/blog".
+
 # Github and twitter are optional:
 minima:
   social_links:
