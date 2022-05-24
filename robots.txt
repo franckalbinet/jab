@@ -1,1 +1,1 @@
-Sitemap: fr.anckalbi.net/sitemap.xml
+Sitemap: https://franckalbinet.github.io/sitemap.xml

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>fr.anckalbi.net/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://franckalbinet.github.io/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>fr.anckalbi.net/jupyter/2020/02/20/test.html</loc>
+<loc>https://franckalbinet.github.io/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>fr.anckalbi.net/about/</loc>
+<loc>https://franckalbinet.github.io/about/</loc>
 </url>
 <url>
-<loc>fr.anckalbi.net/</loc>
+<loc>https://franckalbinet.github.io/</loc>
 </url>
 <url>
-<loc>fr.anckalbi.net/search/</loc>
+<loc>https://franckalbinet.github.io/search/</loc>
 </url>
 <url>
-<loc>fr.anckalbi.net/categories/</loc>
+<loc>https://franckalbinet.github.io/categories/</loc>
 </url>
 </urlset>
